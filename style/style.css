@@ -1,8 +1,6 @@
-html{
-	background: #755454;
-}
-.all{
-	background: #755454;
+.bo{
+	text-decoration: bold;
+	align-content: center;
 }
 .search-bar {
 	margin:20px;
